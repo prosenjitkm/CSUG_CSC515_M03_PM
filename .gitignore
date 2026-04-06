@@ -1,0 +1,16 @@
+# Python cache/build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.idea/
+
+# Generated resource images (inputs/outputs/previews)
+resources/*.jpg
+resources/**/*.jpg
